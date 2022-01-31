@@ -6,7 +6,7 @@
 /*   By: khelegbe <khelegbe@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/21 16:09:19 by khelegbe          #+#    #+#             */
-/*   Updated: 2022/01/24 21:40:33 by khelegbe         ###   ########.fr       */
+/*   Updated: 2022/01/31 14:51:46 by khelegbe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,6 @@
 # include "constant.h"
 # include "struct.h"
 # include <fcntl.h>
-# include <stdio.h>
 
 /*
 **	FILE - srcs/utils.c
